@@ -1,0 +1,9 @@
+1)Write a function that flattens a list. The elements can consist of nested lists (like [[3],2]) and non-scalar data. For example:
+
+Input: [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
+Output: [1,'a','cat',2,3,'dog',4,5]
+
+2)Write a function that reverses the elements within a given list. If the elements within the list are also lists, reverse their elements as well. For example:
+
+Input: [[1, 2], [3, 4], [5, 6, 7]]
+Output: [[[7, 6, 5], [4, 3], [2, 1]]]
